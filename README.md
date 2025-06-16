@@ -1,6 +1,6 @@
 Hi, I'm Kyle Osborn 👋
 
-🎓 Computer Science, Business & Mass Communication Student🖥️ Aspiring IT Specialist | Web Developer | Tech Problem-Solver📍 San Marcos, TX
+🎓 Computer Science, Business & Mass Communication Student🖥️ Aspiring IT Specialist | Web Developer | Tech Problem-Solver
 
 💼 About Me
 
