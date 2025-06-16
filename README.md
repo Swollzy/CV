@@ -38,11 +38,11 @@ Managed brand identity, UX, and layout.
 
 🔗 Links
 
-LinkedIn
+LinkedIn - https://www.linkedin.com/in/kyle-osborn-896509328/
 
-Business Insights Website
+Business Insights Website - https://businessteam2.wordpress.com
 
-Burn Candle Co. Website
+Burn Candle Co. Website - https://burncandleco.wordpress.com
 
 📢 Contact
 
