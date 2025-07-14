@@ -39,6 +39,7 @@ I’m a detail-oriented IT and tech professional passionate about solving proble
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/kyle-osborn-896509328/)
+- [G&K Trailer Rental](https://gktrailerrental.com)
 - [Business Insights Website](https://businessteam2.wordpress.com/)
 - [Burn Candle Co. Website](https://burncandleco.wordpress.com/)
 
