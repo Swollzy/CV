@@ -34,6 +34,11 @@ I’m a detail-oriented IT and tech professional passionate about solving proble
 - Designed and developed a full company website on WordPress.
 - Managed brand identity, user experience, and overall website layout.
 
+### 🚚 Web Developer – GK Trailer Rental
+- Designed and deployed a custom WordPress site with WooCommerce integration.
+- Configured booking, payment, and responsive design features tailored for trailer rental services.
+- Managed plugin troubleshooting, site recovery, and front-end optimizations.
+
 ---
 
 ## 🔗 Links
