@@ -1,55 +1,81 @@
-# Hi, I'm Kyle Osborn 👋
+# Kyle Osborn - CV & Portfolio
 
-🎓 Computer Science, Business & Mass Communication Student  
-🖥️ Aspiring IT Specialist | Web Developer | Tech Problem-Solver  
-
----
-
-## 💼 About Me
-
-I’m a detail-oriented IT and tech professional passionate about solving problems, building digital tools, and supporting end-users in tech environments. With experience in IT hardware setup, software troubleshooting, web development, and data-driven business insights, I bring a unique blend of technical skill and business acumen to every project.
+👋 Hi, I'm Kyle Osborn — a versatile IT Support Specialist and Web Developer passionate about building digital solutions and supporting end-users.
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Languages:** C++, Python, Java, JavaScript, SQL (basic), HTML/CSS, Node.js, Express, React  
-- **Operating Systems:** Linux, Unix, Windows, macOS, iOS  
-- **Tools & IDEs:** Visual Studio, MySQL Workbench, XCode, Tableau  
-- **Business Analysis:** Requirements Gathering, User Story Development  
+## About Me
+I'm a detail-oriented professional with experience in IT hardware, software troubleshooting, web development, and data visualization. I enjoy solving technical problems, designing user-friendly websites, and leveraging technology to improve business operations.
 
 ---
 
-## 📂 Notable Projects
-
-### 🔧 IT Lead – Touchless Vending Machine Setup
-- Installed and configured Android-based touchless vending systems.
-- Led hardware integration and software troubleshooting to ensure system reliability.
-
-### 🌐 Developer – Business Insights Capstone
-- Built a career-focused multi-page WordPress website.
-- Led UX/UI design and coordinated content creation with a team of two members.
-
-### 🕯️ Project Lead – Burn Candle Co. Startup Simulation
-- Designed and developed a full company website on WordPress.
-- Managed brand identity, user experience, and overall website layout.
-
-### 🚚 Web Developer – GK Trailer Rental
-- Designed and deployed a custom WordPress site with WooCommerce integration.
-- Configured booking, payment, and responsive design features tailored for trailer rental services.
-- Managed plugin troubleshooting, site recovery, and front-end optimizations.
+## Skills & Technologies
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript, React, Node.js, Express, Python, Java, C++, SQL
+- **Tools & Platforms:** WordPress, WooCommerce, MySQL Workbench, Tableau, Git, REST APIs, Google Calendar Embed, Canva, Adobe Photoshop, Salesforce
+- **Operating Systems:** Windows, macOS, Linux, Unix
 
 ---
 
-## 🔗 Links
+## Notable Projects
 
-- [LinkedIn](https://www.linkedin.com/in/kyle-osborn-896509328/)
-- [G&K Trailer Rental](https://gktrailerrental.com)
-- [Business Insights Website](https://businessteam2.wordpress.com/)
-- [Burn Candle Co. Website](https://burncandleco.wordpress.com/)
+### [G & K Trailer Rental Website](https://gktrailerrental.com)  
+*Freelance Web Developer | July 2025 – Present*  
+- Designed and launched a custom trailer rental website with booking forms, Google Calendar integration, and WooCommerce.  
+- Improved customer engagement via mobile responsiveness and local SEO.  
+- Managed hosting, domain setup, technical support, and content updates.
+
+### [Business Insights Capstone](https://businessteam2.wordpress.com/)  
+*Team Lead | Texas State University | Oct. 2024 – Dec. 2024*  
+- Developed a career-focused WordPress website targeting students and professionals.  
+- Built dynamic pages and optimized UX/UI design from scratch.
+
+### Touchless Vending Machine Setup  
+*IT Lead | Oct. 2024 – Feb. 2025*  
+- Installed Android hardware and developed software solutions for vending machines.  
+- Diagnosed connectivity issues and optimized system performance.
+
+### Burn Candle Co. Startup Simulation  
+*Project Lead | Mar. 2022 – May 2022*  
+- Designed and developed a branded WordPress e-commerce site emphasizing UX/UI.  
+- Managed branding, layout, and cross-team communication.
 
 ---
 
-## 📢 Contact
+## Professional Experience
 
-- 📧 Email: kyleglenosborn@gmail.com
+### Multi-Line Sales Representative  
+*Amber Armer, State Farm | San Marcos, TX | Aug. 2023 – Feb. 2025*  
+- Maintained 95%+ client satisfaction, managing auto, home, and life policies.  
+- Streamlined policy servicing using Salesforce and Microsoft Teams.  
+- Exceeded sales targets through personalized service.
+
+### Agency Sales Representative  
+*Rick Drew, State Farm | Canyon Lake, TX | Oct. 2021 – Mar. 2023*  
+- Managed over 100 client accounts, providing support and policy renewals.  
+- Built strong relationships through effective communication.  
+- Supported office tech and troubleshooting.
+
+---
+
+## Education
+**Bachelor of General Studies** — Business, Computer Science, Mass Communications  
+*Texas State University | Graduated: May 2025* | GPA: 3.0  
+Relevant coursework includes Web Development, Node.js, Database Management, Data Visualization, Marketing.
+
+---
+
+## Certifications & Training
+- Adobe Photoshop Proficiency Certificate  
+- Data Analysis & AI Hands-On Experience (Victoria Solutions, 2025)
+
+---
+
+## Contact
+📧 [kyleglenosborn@gmail.com](mailto:kyleglenosborn@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kyle-osborn-896509328/)  
+
+
+---
+
+*Feel free to explore my projects and get in touch!*
+
