@@ -34,7 +34,7 @@ I'm a detail-oriented professional with experience in IT hardware, software trou
 - Installed Android hardware and developed software solutions for vending machines.  
 - Diagnosed connectivity issues and optimized system performance.
 
-### Burn Candle Co. Startup Simulation  
+### [Burn Candle Co. Startup Simulation](https://burncandleco.wordpress.com)  
 *Project Lead | Mar. 2022 – May 2022*  
 - Designed and developed a branded WordPress e-commerce site emphasizing UX/UI.  
 - Managed branding, layout, and cross-team communication.
